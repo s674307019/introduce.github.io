@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+
+view page https://s674307019.github.io/introduce.github.io/
+
 You can use the [editor on GitHub](https://github.com/s674307019/introduce.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
